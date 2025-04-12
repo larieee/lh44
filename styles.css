@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #000000be;
+    background-color: #0a0a0abe;
 }
 
 
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #000000be;
+    color: #0a0a0abe;
     font-weight: 600;
 }
 
@@ -136,5 +136,5 @@ h2 {
 }
 
 .form-control {
-    background-color: #000000be;
+    background-color: #0a0a0abe;
 }

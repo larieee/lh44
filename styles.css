@@ -8,7 +8,7 @@
 body {
     font-size: 1rem;
     font-family: 'the quick brown fox jumps over lazy dog';
-    background-color: #0f0a0abe;
+    background-color: #000000be;
 }
 
 header {
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #0f0a0abe;
+    color: #000000be;
     font-weight: 600;
 }
 

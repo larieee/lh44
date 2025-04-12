@@ -2,13 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #262427be;
+    --laranja-claro: #000000be;
 }
 
 body {
     font-size: 1rem;
     font-family: 'the quick brown fox jumps over lazy dog';
-    background-color: #262427be;
+    background-color: #000000be;
 }
 
 header {

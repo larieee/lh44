@@ -2,17 +2,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --laranja-claro: #090f2c;
+    --laranja-claro: #d18febbe;
 }
 
 body {
     font-size: 1rem;
-    font-family: 'Montserrat';
-background-color: #000000;
+    font-family: 'the quick brown fox jumps over lazy dog';
+    background-color: #d18febbe;
 }
 
 header {
-    background-color: #000000;
+    background-color: #d18febbe;
 }
 
 
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #fffffffd;
+    color: #b416f3be;
     font-weight: 600;
 }
 
@@ -62,9 +62,7 @@ section {
     border-radius: 30px;
     border: none;
     width: 14em;
-    /* Convertido para em aumenta o tamanho da fonte por tabela*/
     height: 3em;
-    /* Convertido para em */
     align-content: center;
 
 }
@@ -79,8 +77,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.pg') top right no-repeat,
-        url('img/SINAL.Jpg') bottom left no-repeat;
+    background: url('img/cameleão.jpeg') top right no-repeat,
+        url('img/cameleão.jpeg') bottom left no-repeat;
     background-size: 180px 180px;
     /* Ajuste o tamanho conforme necessário */
 }
@@ -96,24 +94,24 @@ section {
 
 
 h2 {
-    font-family: 'Lemon', serif;
+    font-family: 'Angelina', serif;
     font-size: 2.5em;
     font-style: normal;
     color: var(--laranja-claro);
 }
 
 #galeria {
-    background-color: #000000;
+    background-color: #7d27b6b6;
 
 }
 
 .fundo-galeria {
-    background: url('img/flor-bottom-direita.png') bottom right no-repeat;
+    background: url('img/sol3.jpeg bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/inglaterra.webp');
+    background-image: url('img/sol4.png');
     background-size: cover;
     padding: 4rem 0;
     /* Espaçamento interno para a seção de contato */
@@ -121,23 +119,22 @@ h2 {
 }
 
 .formulario {
-    background-color: #f8f8f8;
+    background-color: #b36ee0;
     padding: 2rem;
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgb(180, 5, 233);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
 .formulario button {
-    background-color: #000272;
+    background-color: #af73bb;
     border: none;
     font-weight: bold;
 }
 
-/* chama classe do bootstrap para modificar a cor */
 .form-control {
-    background-color: #F1EDEF;
+    background-color: #b42fc5;
 }

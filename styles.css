@@ -124,7 +124,7 @@ h2 {
     /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
     /* Borda arredondada para o formulário */
-    box-shadow: 0 0 10px rgb(180, 5, 233);
+    box-shadow: 0 0 10px #000000be(180, 5, 233);
     /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }

@@ -12,7 +12,7 @@ body {
 }
 
 header {
-    background-color: #d18febbe;
+    background-color: #000000be;
 }
 
 
@@ -22,7 +22,7 @@ section {
 
 
 .nav-link {
-    color: #b416f3be;
+    color: #000000be;
     font-weight: 600;
 }
 
